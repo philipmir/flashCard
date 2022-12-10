@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greeting">Välkommen till Appen</string>
+    <string name="button_text">Tryck</string>
+    <string name="button_pressed_text">%1$s, bra tryckt!</string>
+</resources>

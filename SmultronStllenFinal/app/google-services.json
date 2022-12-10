@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994994343336",
+    "project_id": "smultronstallen-a881d",
+    "storage_bucket": "smultronstallen-a881d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994994343336:android:be9b45319a6ba1b3d9a19d",
+        "android_client_info": {
+          "package_name": "com.example.smultronstllenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994994343336-khcm43hupe43b0ketm8oq88nakrfp77n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYK0RKLKlsd1Hk4MQS7Kq7ifASg-VXSDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994994343336-khcm43hupe43b0ketm8oq88nakrfp77n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
